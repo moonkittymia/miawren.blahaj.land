@@ -1,1 +1,8 @@
+   
+   @import url('https://fonts.googleapis.com/css2?family=Spline+Sans+Mono&display=swap');
 
+body {
+  background-color: grey;
+  color: white;
+  font-family: 'Spline Sans Mono';
+}
